@@ -3,7 +3,6 @@ using apiToDo.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System;
-using apiToDo.Services;
 using System.Collections.Generic;
 using System.Linq;
 
